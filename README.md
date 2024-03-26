@@ -14,6 +14,8 @@ Introducing Stable Code Instruct 3B, our new instruction tuned LLM based on Stab
 This model’s performance rivals models of similar or larger sizes, including Codellama 7B Instruct and DeepSeek-Coder Instruct 1.3B. 
 https://www.linkedin.com/posts/reshinth-adithyan-484522135_introducing-stable-code-instruct-3b-stability-activity-7178123417601146880-qsDg?utm_source=share&utm_medium=member_ios
 
+### Speech-to-Code - The Future of Programming with AI? | feat Claude 3 Haiku
+https://youtu.be/gW0RmrhoSyA?feature=shared
 
 
 ## -> Generating Arts 
