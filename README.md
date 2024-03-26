@@ -9,6 +9,21 @@ Finally, we've given Devin the ability to actively collaborate with the user. De
 
 https://www.cognition-labs.com/introducing-devin
 
+### Stability AI : Introducing Stable Code Instruct 3B
+Introducing Stable Code Instruct 3B, our new instruction tuned LLM based on Stable Code 3B. With natural language prompting, this model can handle a variety of tasks such as code generation, math and other software engineering related outputs.
+This model’s performance rivals models of similar or larger sizes, including Codellama 7B Instruct and DeepSeek-Coder Instruct 1.3B. 
+https://www.linkedin.com/posts/reshinth-adithyan-484522135_introducing-stable-code-instruct-3b-stability-activity-7178123417601146880-qsDg?utm_source=share&utm_medium=member_ios
+
+
+
+## -> Generating Arts 
+### OpenAI has released new AI videos created by artists and filmmakers using Sora.
+https://x.com/dr_cintas/status/1772326946736570876?s=20
+
+### 𝐏𝐢𝐱𝟐𝐏𝐢𝐱-𝐓𝐮𝐫𝐛𝐨 Démo 
+https://www.linkedin.com/posts/gradio_exciting-new-research-alert-%3F%3F%3F%3F-activity-7175970644700852224-aJeP?utm_source=share&utm_medium=member_ios
+https://github.com/gradio-app/gradio/
+
 
 ## -> AI Learning 
 
