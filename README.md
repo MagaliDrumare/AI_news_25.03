@@ -4,7 +4,6 @@
 Hugging Face is launching an open source robotics project led by former Tesla scientist
 https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/
 
-
 ## -> Dev Tools 
 ### Introducing Devin, the first AI software engineer
 
