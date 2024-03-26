@@ -1,4 +1,4 @@
-# AI_news_25.03
+# Generative AI & AI _news_25.03
 
 ## -> Dev Tools 
 ### Introducing Devin, the first AI software engineer
