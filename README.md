@@ -15,7 +15,7 @@ https://www.cognition-labs.com/introducing-devin
 ### AWS Free Courses on Generative AI 
 https://x.com/alifcoder/status/1771885186457976904?s=20
 
-## Google has just published ten new courses on Artificial Intelligence
+### Google has just published ten new courses on Artificial Intelligence
 https://x.com/arnill_dev/status/1772214972678058238?s=20
 
 
