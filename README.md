@@ -1,8 +1,11 @@
 # Generative AI & AI _news_25.03
 
-## AI world News 
+## AI News 
 Hugging Face is launching an open source robotics project led by former Tesla scientist
 https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/
+
+
+https://x.com/codebypoonam/status/1771799280581492898?s=46
 
 ## Generative Dev Tools 
 ### Introducing Devin, the first AI software engineer
