@@ -38,6 +38,7 @@ https://github.com/gradio-app/gradio/
 ## AI Learning 
 
 ### Generative AI in a Nutshell - how to survive and thrive in the age of AI
+https://youtu.be/2IK3DFHRFfw?si=LJxN6wIM7CxLClvZ
 
 ### AWS Free Courses on Generative AI 
 https://x.com/alifcoder/status/1771885186457976904?s=20
