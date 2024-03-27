@@ -45,7 +45,7 @@ https://www.linkedin.com/posts/gradio_exciting-new-research-alert-%3F%3F%3F%3F-a
 https://github.com/gradio-app/gradio/
 
 
-## AI Learning / Courses 
+## 📖 AI Learning / Courses 
 
 ### Generative AI in a Nutshell - how to survive and thrive in the age of AI
 https://youtu.be/2IK3DFHRFfw?si=LJxN6wIM7CxLClvZ
