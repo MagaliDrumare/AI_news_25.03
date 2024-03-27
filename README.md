@@ -4,15 +4,15 @@
 Hugging Face is launching an open source robotics project led by former Tesla scientist
 https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/
 
-AI developments this week
-- OpenAI: GPT 5 Leak
-- Neuralink Patient plays chess with mind
-- NVIDIA AI SUPERCHIP
-- Elon Musk's Grok open source
-- Google drops VLOGGER
-- Microsoft hires Deepmind co-founder
-- Microsoft First AI Laptop
-https://x.com/codebypoonam/status/1771799280581492898?s=46
+AI developments this week : https://x.com/codebypoonam/status/1771799280581492898?s=46
+- OpenAI: GPT 5 Leak https://youtu.be/BGcb7uBKsgA?feature=shared
+- Neuralink Patient plays chess with mind https://youtu.be/qoKwpAz3ANM?feature=shared
+- NVIDIA AI SUPERCHIP https://www.unite.ai/what-to-know-about-nvidias-new-blackwell-ai-superchip-and-architecture/
+- Elon Musk's Grok open source https://x.ai/blog/grok-os / https://github.com/xai-org/grok-1
+- Google drops VLOGGER https://youtu.be/d4EcA6J3wMo?feature=shared
+- Microsoft hires Deepmind co-founder https://www.nytimes.com/2024/03/19/technology/mustafa-suleyman-google-gemini.html
+- Microsoft First AI Laptop to have better performances with Copilot https://youtu.be/vGaG88gbxcU?feature=shared
+
 
 ## Generative Dev Tools 
 ### Introducing Devin, the first AI software engineer
