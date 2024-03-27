@@ -1,10 +1,10 @@
 # Generative AI & AI _news_25.03
 
-## News 
+## AI News 
 Hugging Face is launching an open source robotics project led by former Tesla scientist
 https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/
 
-## -> Dev Tools 
+## Generative Dev Tools 
 ### Introducing Devin, the first AI software engineer
 
 With our advances in long-term reasoning and planning, Devin can plan and execute complex engineering tasks requiring thousands of decisions. Devin can recall relevant context at every step, learn over time, and fix mistakes.
@@ -22,7 +22,11 @@ https://www.linkedin.com/posts/reshinth-adithyan-484522135_introducing-stable-co
 https://youtu.be/gW0RmrhoSyA?feature=shared
 
 
-## -> Generating Arts 
+## Generative Arts 
+
+### Big Flo & Oli generative Clip 
+https://youtu.be/SIyGif6p1GQ?si=RbFAIi5Owrq9tJ2R
+
 ### OpenAI has released new AI videos created by artists and filmmakers using Sora.
 https://x.com/dr_cintas/status/1772326946736570876?s=20
 
@@ -31,7 +35,7 @@ https://www.linkedin.com/posts/gradio_exciting-new-research-alert-%3F%3F%3F%3F-a
 https://github.com/gradio-app/gradio/
 
 
-## -> AI Learning 
+## AI Learning 
 
 ### AWS Free Courses on Generative AI 
 https://x.com/alifcoder/status/1771885186457976904?s=20
