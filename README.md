@@ -4,7 +4,13 @@
 Hugging Face is launching an open source robotics project led by former Tesla scientist
 https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/
 
-
+- OpenAI: GPT 5 Leak
+- Neuralink Patient plays chess with mind
+- NVIDIA AI SUPERCHIP
+- Elon Musk's Grok open source
+- Google drops VLOGGER
+- Microsoft hires Deepmind co-founder
+- Microsoft First AI Laptop
 https://x.com/codebypoonam/status/1771799280581492898?s=46
 
 ## Generative Dev Tools 
