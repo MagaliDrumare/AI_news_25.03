@@ -14,7 +14,7 @@ AI developments this week : https://x.com/codebypoonam/status/177179928058149289
 - Microsoft First AI Laptop to have better performances with Copilot https://youtu.be/vGaG88gbxcU?feature=shared
 
 
-## Focus on Generative Dev Tools 
+## 🎯 Focus on Generative Dev Tools 
 ### Introducing Devin, the first AI software engineer
 
 With our advances in long-term reasoning and planning, Devin can plan and execute complex engineering tasks requiring thousands of decisions. Devin can recall relevant context at every step, learn over time, and fix mistakes.
@@ -32,7 +32,7 @@ https://www.linkedin.com/posts/reshinth-adithyan-484522135_introducing-stable-co
 https://youtu.be/gW0RmrhoSyA?feature=shared
 
 
-## Focus on Generative Arts 
+## 🎯 Focus on Generative Arts 
 
 ### Big Flo & Oli generative Clip 
 https://youtu.be/SIyGif6p1GQ?si=RbFAIi5Owrq9tJ2R
