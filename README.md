@@ -3,7 +3,7 @@
 ## 🚀  AI News 
 
 # Will LLM be the powerfull brain of robots ? 
--With OpenAI, Figure 01 can now have full conversations with people
+- With OpenAI, Figure 01 can now have full conversations with people
 https://community.openai.com/t/openai-chatgpt-robot-figure-01/681733
 - Hugging Face is launching an open source robotics project led by former Tesla scientist
 https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/
