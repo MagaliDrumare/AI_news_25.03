@@ -1,6 +1,11 @@
 # Generative AI & AI _newsletter_25.03
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Smkq6yI6O2o?si=2d34d0artrUUanSy/0.jpg)](https://www.youtube.com/watch?v=Smkq6yI6O2o?si=2d34d0artrUUanSy)
+[![IMAGE ALT TEXT HERE](https://img./youtu.be/Smkq6yI6O2o.jpg) (https://youtu.be/Smkq6yI6O2o?si=2d34d0artrUUanSy)
+
+<iframe width="1156" height="650" src="https://www.youtube.com/embed/Smkq6yI6O2o" title="AI newsletter 25-03-2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Smkq6yI6O2o/0.jpg)](https://www.youtube.com/watch?v=Smkq6yI6O2o)
 
 video made with https://aiapp-fr.vidnoz.com/
 
