@@ -1,6 +1,6 @@
 # Generative AI & AI _newsletter_25.03
 
-![image](https://github.com/MagaliDrumare/AI_newsletter_25.03/assets/6807837/b90cfbe5-3851-48fe-9525-6931d3c35ae7)
+[![Watch the video](https://github.com/MagaliDrumare/AI_newsletter_25.03/assets/6807837/b90cfbe5-3851-48fe-9525-6931d3c35ae7)(https://share.vidnoz.com/aishare-fxKpOQZ6qXtYF2Z55aCZukQH17118774342983890)
 
 
 ## 🚀  AI News 
