@@ -1,5 +1,8 @@
 # Generative AI & AI _newsletter_25.03
 
+![image](https://github.com/MagaliDrumare/AI_newsletter_25.03/assets/6807837/b90cfbe5-3851-48fe-9525-6931d3c35ae7)
+
+
 ## 🚀  AI News 
 
 ### Will LLM be the powerfull brain of robots ? 
