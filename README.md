@@ -2,13 +2,13 @@
 
 ## 🚀  AI News 
 
-# Will LLM be the powerfull brain of robots ? 
+### Will LLM be the powerfull brain of robots ? 
 - With OpenAI, Figure 01 can now have full conversations with people
 https://community.openai.com/t/openai-chatgpt-robot-figure-01/681733
 - Hugging Face is launching an open source robotics project led by former Tesla scientist
 https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/
 
-# AI developments this week :
+### AI developments this week :
 - OpenAI: GPT 5 Leak https://youtu.be/BGcb7uBKsgA?feature=shared
 - Neuralink Patient plays chess with mind https://youtu.be/qoKwpAz3ANM?feature=shared
 - NVIDIA AI SUPERCHIP https://www.unite.ai/what-to-know-about-nvidias-new-blackwell-ai-superchip-and-architecture/
