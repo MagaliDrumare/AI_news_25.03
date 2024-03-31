@@ -1,6 +1,6 @@
 # Generative AI & AI _newsletter_25.03
 
-[![Watch the video](https://static.vidnoz.com/designer/asset/202312/657a9accc40f3.png)(https://share.vidnoz.com/aishare-fxKpOQZ6qXtYF2Z55aCZukQH17118774342983890)
+[![Watch the video](https://share.vidnoz.com/aivideo?id=3247149)(https://share.vidnoz.com/aishare-fxKpOQZ6qXtYF2Z55aCZukQH17118774342983890)
 
 
 ## 🚀  AI News 
