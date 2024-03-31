@@ -1,8 +1,7 @@
 # Generative AI & AI _newsletter_25.03
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Smkq6yI6O2o/0.jpg)](https://www.youtube.com/watch?v=Smkq6yI6O2o)
-
-video made with https://aiapp-fr.vidnoz.com/
+Newsletter_25.03 video made with https://aiapp-fr.vidnoz.com/
 
 ## 🚀  AI News 
 
