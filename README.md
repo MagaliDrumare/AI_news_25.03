@@ -1,5 +1,8 @@
 # Generative AI & AI _newsletter_25.03
 
+[![Watch the video](https://share.vidnoz.com/aishare-fxKpOQZ6qXtYF2Z55aCZukQH17118774342983890)
+
+
 ## 🚀  AI News 
 
 ### Will LLM be the powerfull brain of robots ? 
