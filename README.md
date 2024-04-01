@@ -1,4 +1,4 @@
-Generative AI & AI _newsletter_25.03
+# Generative AI & AI _newsletter_25.03
 
 ## 🎬 Newsletter_25.03 video 
 made with https://aiapp-fr.vidnoz.com/
