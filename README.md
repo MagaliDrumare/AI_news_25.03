@@ -39,6 +39,7 @@ This model’s performance rivals models of similar or larger sizes, including C
 https://www.linkedin.com/posts/reshinth-adithyan-484522135_introducing-stable-code-instruct-3b-stability-activity-7178123417601146880-qsDg?utm_source=share&utm_medium=member_ios
 
 ### Speech-to-Code - The Future of Programming with AI? | feat Claude 3 Haiku
+In this video I share my latest project where created a system where you can use speech-to-code. Input natural language and generate and execute code in return. Claude 3 Haiku is the LLM in this video
 https://youtu.be/gW0RmrhoSyA?feature=shared
 
 
@@ -60,7 +61,7 @@ https://github.com/gradio-app/gradio/
 ### Generative AI in a Nutshell - how to survive and thrive in the age of AI
 https://youtu.be/2IK3DFHRFfw?si=LJxN6wIM7CxLClvZ
 
-### AWS Free Courses on Generative AI 
+### AWS free courses on Generative AI 
 https://x.com/alifcoder/status/1771885186457976904?s=20
 
 ### Google has just published ten new courses on Artificial Intelligence
