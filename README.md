@@ -42,6 +42,10 @@ https://www.linkedin.com/posts/reshinth-adithyan-484522135_introducing-stable-co
 In this video I share my latest project where created a system where you can use speech-to-code. Input natural language and generate and execute code in return. Claude 3 Haiku is the LLM in this video
 https://youtu.be/gW0RmrhoSyA?feature=shared
 
+### Salesforce Code Builder 
+Through Salesforce Code Builder, one can access all the Salesforce languages and frameworks such as Apex, SOQL, Visualforce, AURA, and Lightning Web Component and can make use of developer tools like debuggers for Apex, linting, etc.
+https://cloudely.com/salesforce-code-builder/
+
 
 ## 🎯 Focus on Generative Arts 
 
